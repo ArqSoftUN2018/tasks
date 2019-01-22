@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  userid: 1
+  archived: false
+  complete: false
+  group1: 1
+  board: 1
+  description: MyString
+
+two:
+  name: MyString
+  userid: 1
+  archived: false
+  complete: false
+  group1: 1
+  board: 1
+  description: MyString
